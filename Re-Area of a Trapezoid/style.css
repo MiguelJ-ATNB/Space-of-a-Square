@@ -1,0 +1,44 @@
+html{
+    background: blue;
+    padding-top: 20px;   
+}
+
+img{
+    border: 1px grey;
+    border-style: solid;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background: white;
+    margin: auto;
+    border-radius: 25px;
+    width: 700px;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+button{
+    color: white;
+    background: maroon;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#Italic{
+    font-style: italic;
+}
+
+h2{
+    font-size: 33px;
+}
